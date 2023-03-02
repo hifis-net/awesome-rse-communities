@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Research Software Engineering Communities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated awesome list of Research Software Engineering (RSE) Communities. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
