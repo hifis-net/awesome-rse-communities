@@ -20,6 +20,7 @@ A curated awesome list of Research Software Engineering (RSE) Communities. Inspi
 - [National Initiatives](#national-initiatives)
 - [RSE Associations](#rse-associations)
 - [RSE Groups](#rse-groups)
+- [Software Sustainability Institutes](#software-sustainability-institutes)
 - [Working Groups](#working-groups)
 - [Related lists](#related-lists)
 - [Contribute](#contribute)
