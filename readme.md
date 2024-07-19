@@ -47,6 +47,8 @@ RSE Associations around the globe.
 - [AU/NZ](https://rse-aunz.github.io)
 - [BE](https://www.be-rse.org)
 - [DE](https://www.de-rse.org)
+- [DK](https://dighumlab.org/danish-rse/)
+- [FR](https://www.devlog.cnrs.fr/)
 - [NL](https://nl-rse.org)
 - [Scandinavia](http://nordic-rse.org)
 - [UK](https://rse.ac.uk/><https://society-rse.org)
