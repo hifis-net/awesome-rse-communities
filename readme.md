@@ -80,7 +80,7 @@ Working groups around the globe that deal with research software engineers and e
   - Helmholtz Gesellschaft
     - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
 
-  - Leibnitz Gemeinschaft
+  - Leibniz-Gemeinschaft
 
   - MPI
 
