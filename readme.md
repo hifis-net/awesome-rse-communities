@@ -67,6 +67,7 @@ SSIs around the globe.
 
 - [eScienceCenter (NL)](https://www.esciencecenter.nl)
 - [Institute for Research Software (UK)](https://www.software.ac.uk)
+- [US Research Software Sustainability Institute (USA)](https://urssi.us)
 
 
 ## Working Groups
