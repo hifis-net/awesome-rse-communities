@@ -65,9 +65,9 @@ RSE Groups around the globe. These are more informal and locally organized group
 ## National Institutes
 National institutions around the globe.
 
+- [Digital Research Alliance of Canada](https://www.alliancecan.ca/en/our-services/research-software) (Research Software integrated into the Alliance)
 - [eScienceCenter (NL)](https://www.esciencecenter.nl)
 - [Institute for Research Software (UK)](https://www.software.ac.uk) (previously Software Sustainability Institute)
-
 
 ## Working Groups
 Working groups around the globe that deal with research software engineers and engineering topics. This section is quite work in progress.
