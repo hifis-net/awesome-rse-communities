@@ -66,7 +66,7 @@ RSE Groups around the globe. These are more informal and locally organized group
 SSIs around the globe.
 
 - [eScienceCenter (NL)](https://www.esciencecenter.nl)
-- [Software Sustainability Institute (UK)](https://www.software.ac.uk)
+- [Institute for Research Software (UK)](https://www.software.ac.uk)
 
 
 ## Working Groups
