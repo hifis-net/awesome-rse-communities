@@ -62,13 +62,14 @@ RSE Groups around the globe. These are more informal and locally organized group
 - [UK](https://docs.google.com/spreadsheets/d/e/2PACX-1vTd_AgELhvKd4FXDyAWI8L2WWNtAqxPElo334KZLEZWA4Ze5yOKDtwA2DE5crwNsCu8s7Cd8oAsgr5s/pubhtml) - List of local RSE groups in UK.
 
 
-## Software Sustainability Institutes
-SSIs around the globe.
+## National Institutes
+National institutions around the globe.
 
+- [Australian Research Data Commons (ARDC)](https://ardc.edu.au/resource-hub/working-with-research-software/) (Research Software integrated into the ARDC)
+- [Digital Research Alliance of Canada](https://www.alliancecan.ca/en/our-services/research-software) (Research Software integrated into the Alliance)
 - [eScienceCenter (NL)](https://www.esciencecenter.nl)
-- [Institute for Research Software (UK)](https://www.software.ac.uk)
+- [Institute for Research Software (UK)](https://www.software.ac.uk) (previously Software Sustainability Institute)
 - [US Research Software Sustainability Institute (USA)](https://urssi.us)
-
 
 ## Working Groups
 Working groups around the globe that deal with research software engineers and engineering topics. This section is quite work in progress.
