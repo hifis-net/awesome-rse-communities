@@ -69,6 +69,7 @@ National institutions around the globe.
 - [Digital Research Alliance of Canada](https://www.alliancecan.ca/en/our-services/research-software) (Research Software integrated into the Alliance)
 - [eScienceCenter (NL)](https://www.esciencecenter.nl)
 - [Institute for Research Software (UK)](https://www.software.ac.uk) (previously Software Sustainability Institute)
+- [US Research Software Sustainability Institute (USA)](https://urssi.us)
 
 ## Working Groups
 Working groups around the globe that deal with research software engineers and engineering topics. This section is quite work in progress.
@@ -81,7 +82,7 @@ Working groups around the globe that deal with research software engineers and e
   - Helmholtz Gesellschaft
     - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
 
-  - Leibnitz Gemeinschaft
+  - Leibniz-Gemeinschaft
 
   - MPI
 
