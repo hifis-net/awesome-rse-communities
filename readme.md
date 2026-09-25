@@ -85,6 +85,7 @@ Working groups around the globe that deal with research software engineers and e
   - Leibniz-Gemeinschaft
 
   - MPI
+    - [Rules for good scientific practice in the Max-Plack-Society](https://gitlab.gwdg.de/mpg-rse/gwp-rse)
 
   - Fraunhofer
 
